@@ -1,4 +1,4 @@
-Proshore House Broker MVP
+Proshore_Broker_API_MVP
 A modern House Broker platform backend built using Clean Architecture, ASP.NET Core, JWT Authentication, and Entity Framework Core.
 The system supports role-based property management, booking workflows, commission automation, and admin reporting.
 

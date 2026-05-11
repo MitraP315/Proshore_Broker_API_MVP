@@ -1,0 +1,99 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# JetBrains Rider
+*.sln.iml
+
+# Logs
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# IIS Express
+/.vs
+/iisexpress/
+
+# Publish output
+publish/
+*.publish.xml
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Entity Framework
+*.mdf
+*.ldf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# App secrets
+appsettings.Development.json
+secrets.json
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Test results
+TestResults/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Azure
+*.azurePubxml
+
+# Docker
+docker-compose.override.yml
+
+# Generated files
+Generated/
+
+# Backup files
+*.bak
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Node modules (if using React/Next frontend)
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Temporary files
+tmp/
+temp/

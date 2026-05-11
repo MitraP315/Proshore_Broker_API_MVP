@@ -1,0 +1,6 @@
+@ProshoreHouseBroker.Api_HostAddress = http://localhost:5211
+
+GET {{ProshoreHouseBroker.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
